@@ -1,5 +1,8 @@
-## 잔디심기 8번째 repository
-## grass_8
+## 잔디심기 12번째 repository
+## grass_12
+
+
+## putty 오류 발생으로 grass_8를 import했음!
 
 
 happy.txt
